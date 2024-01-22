@@ -13,7 +13,7 @@
 }
 
 /* .custom_width {
-    width: 23% !important;
+    width: 21% !important;
 } */
 
 .nav-item {
@@ -36,7 +36,7 @@
     padding: 1px 10px;
     border-radius: 50px;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 55px;
 }
 
 .logo {
@@ -219,7 +219,7 @@
 }
 .box {
     height: auto;
-    width: 150px !important;
+    width: 137px !important;
     background-color: #FFFFFF;
     border-radius: 10px;
     padding-top: 10px;
@@ -322,7 +322,7 @@
 .box2 {
     padding: 20px;
     background-color: #FFFFFF;
-    width: 660px !important;
+    width: 575px !important;
     border-radius: 10px;
     height: auto;
 }
@@ -470,7 +470,7 @@
     font-weight: 700;
 }
 .date_img_1 {
-    margin-top: 58px;
+    margin-top: 73px;
 }
 .date_img_2 {
     margin-top: 55px;
@@ -496,6 +496,9 @@
 .date_img_9 {
     margin-top: 20px;
 }
+.date_img_10 {
+    margin-top: 20px;
+}
 
 
 
@@ -514,7 +517,7 @@
 
 .sales {
     display: flex;
-    gap: 80px;
+    gap: 45px;
     h6 {
         color: #64678B;
         font-size: 12px;
